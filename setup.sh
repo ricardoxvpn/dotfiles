@@ -18,8 +18,13 @@ ln -s $PWD/.emacs.d/private/snippets ~/.emacs.d/private/snippets
 
 emacs --insecure 
 
+# Fonts
+# 
 # Source code font 
 # https//github.com/adobe-fonts/source-code-pro
+# 
+# Fira Mono
+# https://www.fontsquirrel.com/fonts/fira-mono
 
 # Todo.txt
 brew install todo-txt
